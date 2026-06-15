@@ -1,4 +1,4 @@
-# TaskFlow — Candidate Screening Assessment
+# TaskFlow 
 
 Full-stack project management application built for the **Uplers AI-Assisted Development** coding assessment. Implements **Section A (Django/Python)** and **Section B (React/Vite)** requirements.
 
